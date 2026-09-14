@@ -1,6 +1,6 @@
 line 1 - updated master
 line 2 - updated Bug1
 line 3 - again updated master
-line 4
+line 4 - updated Bug2 branch
 line 5
 line 6
